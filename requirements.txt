@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+matplotlib
+networkx
+python-louvain
+leidenalg
+python-igraph
+scikit-learn
+node2vec
+torch
+torch-geometric
+tqdm
