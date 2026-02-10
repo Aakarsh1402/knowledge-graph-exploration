@@ -1,6 +1,6 @@
 # Precog Graph Theory Task
 
-his project explores the **MetaFam** dataset—a synthetic Knowledge Graph representing complex multi-generational family structures. The goal is to apply graph theory, community detection, rule mining, and link prediction techniques to analyze family dynamics and recover hidden relationships.
+Welcome to the **Precog Graph Task** repository. This project explores the **MetaFam** dataset—a synthetic Knowledge Graph representing complex multi-generational family structures. The goal is to apply graph theory, community detection, rule mining, and link prediction techniques to analyze family dynamics and recover hidden relationships.
 
 ##  Directory Structure
 
@@ -73,8 +73,8 @@ The project is divided into four sequential tasks, each building on the previous
 *   **Method:**
     *   **Louvain/Leiden:** Perfect at recovering the 50 disconnected families.
     *   **Node2Vec + KMeans:** Learned structural embeddings that naturally separated families in vector space.
-    *   **WKD (Weighted Kinship Distance):** A novel metric we designed to measure "relatedness" more accurately than simple hop count (e.g., distinguishing siblings vs. distant cousins).
-*   **Output:** Comparison tables of Modularities and Heatmaps of the new WKD metric.
+    *   **WRD (Weighted Relationship Distance):** A novel metric we designed to measure "relatedness" more accurately than simple hop count (e.g., distinguishing siblings vs. distant cousins).
+*   **Output:** Comparison tables of Modularities and Heatmaps of the new WRD metric.
 
 ### **Task 3: Rule Mining**
 *   **Goal:** Discover logical rules that govern family relationships (e.g., `Mother(A, B) ^ Father(B, C) => GrandMother(A, C)`).
