@@ -5,7 +5,7 @@ Welcome to the **Knowledge Graph Exploration** repository (originally the Precog
 ##  Directory Structure
 
 ```plaintext
-precog_graph_task/
+knowledge-graph-exploration/
 ├── MetaFam_dataset/            # The raw dataset
 │   ├── train.txt               # Main triples file (head, relation, tail)
 │   └── test.txt                # Test set for link prediction
@@ -26,8 +26,8 @@ precog_graph_task/
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/Aakarsh1402/precog_graph_task.git
-    cd precog_graph_task
+    git clone https://github.com/Aakarsh1402/knowledge-graph-exploration.git
+    cd knowledge-graph-exploration
     ```
 
 2.  **Install Dependencies**
