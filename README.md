@@ -1,6 +1,6 @@
-# Precog Graph Theory Task
+# Knowledge Graph Exploration: MetaFam Analysis
 
-Welcome to the **Precog Graph Task** repository. This project explores the **MetaFam** dataset—a synthetic Knowledge Graph representing complex multi-generational family structures. The goal is to apply graph theory, community detection, rule mining, and link prediction techniques to analyze family dynamics and recover hidden relationships.
+Welcome to the **Knowledge Graph Exploration** repository (originally the Precog Graph Task). This project explores the **MetaFam** dataset—a synthetic Knowledge Graph representing complex multi-generational family structures. The goal is to apply graph theory, community detection, rule mining, and link prediction techniques to analyze family dynamics and recover hidden relationships.
 
 ##  Directory Structure
 
