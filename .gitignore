@@ -8,3 +8,6 @@ report/*.aux
 report/*.log
 report/*.out
 report/*.toc
+PROJECT_EXPLAINER.tex
+PROJECT_EXPLAINER.pdf
+IMPROVEMENT_PLAN.md
