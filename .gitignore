@@ -1,1 +1,10 @@
 prep_stuff/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.claude/settings.local.json
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
